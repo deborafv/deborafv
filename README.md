@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @deborafv
+- 🌱 I’m currently learning Python
+- 📫 How to reach me: deborafv2@gmail.com 
